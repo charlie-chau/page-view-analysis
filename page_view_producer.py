@@ -8,8 +8,8 @@ from kafka import KafkaProducer
 def current_milli_time():
     return round(time.time() * 1000)
 
-NUM_USERS = 100
-NUM_PAGES = 100
+NUM_USERS = 5
+NUM_PAGES = 5
 EVENTS_PER_SECOND = 1
 
 users = []
