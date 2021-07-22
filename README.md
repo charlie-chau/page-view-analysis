@@ -4,15 +4,15 @@
 
 The following are some guides to installing python, Spark or Kafka. You will need all three to run the application.
 
-Install Python and Spark 
+**Install Python and Spark** 
 
 `https://www.datacamp.com/community/tutorials/installation-of-pyspark`
 
-Install Kafka (windows guide)
+**Install Kafka (windows guide)**
 
 `https://www.goavega.com/install-apache-kafka-on-windows/`
 
-Install the python dependencies
+**Install the python dependencies**
 
 `pip install requirements.txt`
 
